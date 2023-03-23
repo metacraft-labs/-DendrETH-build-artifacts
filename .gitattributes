@@ -1,0 +1,4 @@
+light_client_cpp/light_client.cpp filter=lfs diff=lfs merge=lfs -text
+light_client_cpp/light_client filter=lfs diff=lfs merge=lfs -text
+light_client_cpp/light_client.dat filter=lfs diff=lfs merge=lfs -text
+light_client_cpp/light_client.o filter=lfs diff=lfs merge=lfs -text
